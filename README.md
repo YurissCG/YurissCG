@@ -10,8 +10,6 @@
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Yuri-pic" height="90" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/734497434880835675/1083447734511620287/Sem_Titulo-1.gif">
 </div>
 
 <div align="center" style="padding: 5px;" > 
@@ -20,5 +18,6 @@
   <a href = "yr.camilo95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
 ![snake gif](https://github.com/yurissCG/yurissCG/blob/output/github-contribution-grid-snake.svg)
   
