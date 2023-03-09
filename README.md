@@ -1,4 +1,4 @@
-## Olá, Eu sou o Yuri  👋
+## Olá, eu sou o Yuri Camilo, universitário cursando Ciencia da computação!
 
 <div align="center">
   <a href="[https://github.com/rafaballerini](https://github.com/YurissCG)">
