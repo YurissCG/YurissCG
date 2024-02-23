@@ -1,23 +1,41 @@
-## Olá, eu sou o Yuri Camilo, universitário cursando Ciencia da computação!
 
-<div align="center">
-  <a href="[https://github.com/rafaballerini](https://github.com/YurissCG)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurisscg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisscg&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-    
-<div align="center" display="inline_block"><br>
-  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Yuri!;" />
+</h1>
+
+<div  align="center" >
+  - 🔭 Atualmente estou Buscando Estágio na Área ...
+  <br>
+- 🌱 Estou estudando java, HTML, CSS, Javascript ...
 </div>
 
-<div align="center" style="padding: 5px; margin-bottom: 10px;" > 
-  <a href="https://www.instagram.com/yuriscg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-camilo-648b2b217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "yr.camilo95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=java,html,css,vscode,github,figma,git" />
 </div>
 
-![snake gif](https://github.com/yurissCG/yurissCG/blob/output/github-contribution-grid-snake.svg)
-  
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yurisscg&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yurisscg&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yurisscg&show_icons=true" />
+</picture>
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
+
+
+
+
+
